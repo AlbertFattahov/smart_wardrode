@@ -1,0 +1,502 @@
+[
+  {
+    "name_file": "anorak.jpg",
+    "ID": 9,
+    "class_ name": "Hoodie"
+  },
+  {
+    "name_file": "blazer.jpg",
+    "ID": 1,
+    "class_ name": "Blazer"
+  },
+  {
+    "name_file": "blazer.jpg",
+    "ID": 1,
+    "class_ name": "Blazer"
+  },
+  {
+    "name_file": "blouse.jpg",
+    "ID": 2,
+    "class_ name": "Blouse"
+  },
+  {
+    "name_file": "bomber.jpg",
+    "ID": 10,
+    "class_ name": "Jacket"
+  },
+  {
+    "name_file": "bomber2.jpg",
+    "ID": 10,
+    "class_ name": "Jacket"
+  },
+  {
+    "name_file": "button_down2.jpg",
+    "ID": 10,
+    "class_ name": "Jacket"
+  },
+  {
+    "name_file": "caftan.jpg",
+    "ID": 40,
+    "class_ name": "Dress"
+  },
+  {
+    "name_file": "caftan.jpg",
+    "ID": 40,
+    "class_ name": "Dress"
+  },
+  {
+    "name_file": "caftan2.jpg",
+    "ID": 40,
+    "class_ name": "Dress"
+  },
+  {
+    "name_file": "cape3.jpg",
+    "ID": 40,
+    "class_ name": "Dress"
+  },
+  {
+    "name_file": "capris.jpg",
+    "ID": 21,
+    "class_ name": "Chinos"
+  },
+  {
+    "name_file": "capris2.jpg",
+    "ID": 29,
+    "class_ name": "Leggings"
+  },
+  {
+    "name_file": "cardigan.jpg",
+    "ID": 5,
+    "class_ name": "Cardigan"
+  },
+  {
+    "name_file": "cardigan2.jpg",
+    "ID": 5,
+    "class_ name": "Cardigan"
+  },
+  {
+    "name_file": "chinos.jpg",
+    "ID": 21,
+    "class_ name": "Chinos"
+  },
+  {
+    "name_file": "chinos2.jpg",
+    "ID": 28,
+    "class_ name": "Joggers"
+  },
+  {
+    "name_file": "coat.jpg",
+    "ID": 38,
+    "class_ name": "Coat"
+  },
+  {
+    "name_file": "coat2.jpg",
+    "ID": 38,
+    "class_ name": "Coat"
+  },
+  {
+    "name_file": "coat3.jpg",
+    "ID": 38,
+    "class_ name": "Coat"
+  },
+  {
+    "name_file": "coverap.jpg",
+    "ID": 43,
+    "class_ name": "Kimono"
+  },
+  {
+    "name_file": "coverap2.jpg",
+    "ID": 40,
+    "class_ name": "Dress"
+  },
+  {
+    "name_file": "coverap2.jpg",
+    "ID": 40,
+    "class_ name": "Dress"
+  },
+  {
+    "name_file": "culottes.jpg",
+    "ID": 15,
+    "class_ name": "Sweater"
+  },
+  {
+    "name_file": "cutoffs.jpg",
+    "ID": 31,
+    "class_ name": "Shorts"
+  },
+  {
+    "name_file": "cutoffs2.jpg",
+    "ID": 31,
+    "class_ name": "Shorts"
+  },
+  {
+    "name_file": "flannel.jpg",
+    "ID": 10,
+    "class_ name": "Jacket"
+  },
+  {
+    "name_file": "halter.jpg",
+    "ID": 41,
+    "class_ name": "Jumpsuit"
+  },
+  {
+    "name_file": "halter3.jpg",
+    "ID": 16,
+    "class_ name": "Tank"
+  },
+  {
+    "name_file": "henley.jpg",
+    "ID": 8,
+    "class_ name": "Henley"
+  },
+  {
+    "name_file": "henley2.jpg",
+    "ID": 8,
+    "class_ name": "Henley"
+  },
+  {
+    "name_file": "henley3.jpg",
+    "ID": 8,
+    "class_ name": "Henley"
+  },
+  {
+    "name_file": "hoodie.jpg",
+    "ID": 9,
+    "class_ name": "Hoodie"
+  },
+  {
+    "name_file": "hoodie2.jpg",
+    "ID": 9,
+    "class_ name": "Hoodie"
+  },
+  {
+    "name_file": "hoodie3.jpg",
+    "ID": 9,
+    "class_ name": "Hoodie"
+  },
+  {
+    "name_file": "jacket.jpg",
+    "ID": 10,
+    "class_ name": "Jacket"
+  },
+  {
+    "name_file": "jacket2.jpg",
+    "ID": 10,
+    "class_ name": "Jacket"
+  },
+  {
+    "name_file": "jacket3.jpg",
+    "ID": 10,
+    "class_ name": "Jacket"
+  },
+  {
+    "name_file": "jeans.jpg",
+    "ID": 25,
+    "class_ name": "Jeans"
+  },
+  {
+    "name_file": "jeans2.jpg",
+    "ID": 25,
+    "class_ name": "Jeans"
+  },
+  {
+    "name_file": "jeans3.jpg",
+    "ID": 25,
+    "class_ name": "Jeans"
+  },
+  {
+    "name_file": "jeggins.jpg",
+    "ID": 25,
+    "class_ name": "Jeans"
+  },
+  {
+    "name_file": "jeggins2.jpg",
+    "ID": 25,
+    "class_ name": "Jeans"
+  },
+  {
+    "name_file": "jersey.jpg",
+    "ID": 17,
+    "class_ name": "Tee"
+  },
+  {
+    "name_file": "jersey2.jpg",
+    "ID": 17,
+    "class_ name": "Tee"
+  },
+  {
+    "name_file": "jodhpurs.jpg",
+    "ID": 25,
+    "class_ name": "Jeans"
+  },
+  {
+    "name_file": "joggers.jpg",
+    "ID": 28,
+    "class_ name": "Joggers"
+  },
+  {
+    "name_file": "joggers2.jpg",
+    "ID": 28,
+    "class_ name": "Joggers"
+  },
+  {
+    "name_file": "joggers3.jpg",
+    "ID": 28,
+    "class_ name": "Joggers"
+  },
+  {
+    "name_file": "jumpsuit.jpg",
+    "ID": 41,
+    "class_ name": "Jumpsuit"
+  },
+  {
+    "name_file": "jumpsuit2.jpg",
+    "ID": 41,
+    "class_ name": "Jumpsuit"
+  },
+  {
+    "name_file": "jumpsuit3.jpg",
+    "ID": 41,
+    "class_ name": "Jumpsuit"
+  },
+  {
+    "name_file": "jumpsuit4.jpg",
+    "ID": 41,
+    "class_ name": "Jumpsuit"
+  },
+  {
+    "name_file": "leggings.jpg",
+    "ID": 29,
+    "class_ name": "Leggings"
+  },
+  {
+    "name_file": "leggings2.jpg",
+    "ID": 29,
+    "class_ name": "Leggings"
+  },
+  {
+    "name_file": "nightdress.jpg",
+    "ID": 40,
+    "class_ name": "Dress"
+  },
+  {
+    "name_file": "nightdress2.jpg",
+    "ID": 40,
+    "class_ name": "Dress"
+  },
+  {
+    "name_file": "parka.jpg",
+    "ID": 12,
+    "class_ name": "Parka"
+  },
+  {
+    "name_file": "parka2.jpg",
+    "ID": 12,
+    "class_ name": "Parka"
+  },
+  {
+    "name_file": "peacoat.jpg",
+    "ID": 38,
+    "class_ name": "Coat"
+  },
+  {
+    "name_file": "peacoat2.jpg",
+    "ID": 13,
+    "class_ name": "Peacoat"
+  },
+  {
+    "name_file": "peacoat3.jpg",
+    "ID": 13,
+    "class_ name": "Peacoat"
+  },
+  {
+    "name_file": "poncho.jpg",
+    "ID": 14,
+    "class_ name": "Poncho"
+  },
+  {
+    "name_file": "poncho2.jpg",
+    "ID": 14,
+    "class_ name": "Poncho"
+  },
+  {
+    "name_file": "robe2.jpg",
+    "ID": 38,
+    "class_ name": "Coat"
+  },
+  {
+    "name_file": "robe3.jpg",
+    "ID": 40,
+    "class_ name": "Dress"
+  },
+  {
+    "name_file": "robe4.jpg",
+    "ID": 40,
+    "class_ name": "Dress"
+  },
+  {
+    "name_file": "romper.jpg",
+    "ID": 47,
+    "class_ name": "Romper"
+  },
+  {
+    "name_file": "romper2.jpg",
+    "ID": 47,
+    "class_ name": "Romper"
+  },
+  {
+    "name_file": "romper3.jpg",
+    "ID": 47,
+    "class_ name": "Romper"
+  },
+  {
+    "name_file": "sarong2.jpg",
+    "ID": 32,
+    "class_ name": "Skirt"
+  },
+  {
+    "name_file": "shirtdress.jpg",
+    "ID": 40,
+    "class_ name": "Dress"
+  },
+  {
+    "name_file": "shirtdress2.jpg",
+    "ID": 40,
+    "class_ name": "Dress"
+  },
+  {
+    "name_file": "shorts.jpg",
+    "ID": 31,
+    "class_ name": "Shorts"
+  },
+  {
+    "name_file": "shorts1.jpg",
+    "ID": 31,
+    "class_ name": "Shorts"
+  },
+  {
+    "name_file": "shorts2.jpg",
+    "ID": 31,
+    "class_ name": "Shorts"
+  },
+  {
+    "name_file": "shorts2.jpg",
+    "ID": 35,
+    "class_ name": "Trunks"
+  },
+  {
+    "name_file": "shorts3.jpg",
+    "ID": 31,
+    "class_ name": "Shorts"
+  },
+  {
+    "name_file": "skirt.jpg",
+    "ID": 32,
+    "class_ name": "Skirt"
+  },
+  {
+    "name_file": "skirt2.jpg",
+    "ID": 32,
+    "class_ name": "Skirt"
+  },
+  {
+    "name_file": "skirt3.jpg",
+    "ID": 32,
+    "class_ name": "Skirt"
+  },
+  {
+    "name_file": "sundress.jpg",
+    "ID": 40,
+    "class_ name": "Dress"
+  },
+  {
+    "name_file": "sundress2.jpg",
+    "ID": 40,
+    "class_ name": "Dress"
+  },
+  {
+    "name_file": "sweater2.jpg",
+    "ID": 15,
+    "class_ name": "Sweater"
+  },
+  {
+    "name_file": "sweater3.jpg",
+    "ID": 15,
+    "class_ name": "Sweater"
+  },
+  {
+    "name_file": "sweatpants.jpg",
+    "ID": 33,
+    "class_ name": "Sweatpants"
+  },
+  {
+    "name_file": "sweatpants2.jpg",
+    "ID": 33,
+    "class_ name": "Sweatpants"
+  },
+  {
+    "name_file": "tank.jpg",
+    "ID": 16,
+    "class_ name": "Tank"
+  },
+  {
+    "name_file": "tank2.jpg",
+    "ID": 16,
+    "class_ name": "Tank"
+  },
+  {
+    "name_file": "tee.jpg",
+    "ID": 17,
+    "class_ name": "Tee"
+  },
+  {
+    "name_file": "tee2.jpg",
+    "ID": 17,
+    "class_ name": "Tee"
+  },
+  {
+    "name_file": "tee3.jpg",
+    "ID": 17,
+    "class_ name": "Tee"
+  },
+  {
+    "name_file": "top.jpg",
+    "ID": 32,
+    "class_ name": "Skirt"
+  },
+  {
+    "name_file": "top2.jpg",
+    "ID": 17,
+    "class_ name": "Tee"
+  },
+  {
+    "name_file": "trunks.jpg",
+    "ID": 31,
+    "class_ name": "Shorts"
+  },
+  {
+    "name_file": "trunks2.jpg",
+    "ID": 31,
+    "class_ name": "Shorts"
+  },
+  {
+    "name_file": "trunks3.jpg",
+    "ID": 31,
+    "class_ name": "Shorts"
+  },
+  {
+    "name_file": "turtleneck.jpg",
+    "ID": 15,
+    "class_ name": "Sweater"
+  },
+  {
+    "name_file": "turtleneck2.jpg",
+    "ID": 15,
+    "class_ name": "Sweater"
+  },
+  {
+    "name_file": "turtleneck3.jpg",
+    "ID": 40,
+    "class_ name": "Dress"
+  }
+]
