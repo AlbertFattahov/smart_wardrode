@@ -49,32 +49,36 @@ conda env create -f environment.yml
 
 # Активация окружения
 conda activate smart_wardrobe
-Способ 2: Использование pip
-bash
+```
+### Способ 2: Использование pip
+```bash
 # Установка зависимостей
 pip install -r requirements.txt
-
-Использование
-1. Обработка изображений гардероба
-bash
+```
+## Использование
+### 1. Обработка изображений гардероба
+```bash
 python src/run_model.py
+```
 Скрипт последовательно обрабатывает все изображения в директории test_images/, применяет модель YOLO и сохраняет результаты детекции в файл results.json.
 
-2. Тестирование с визуализацией результатов
-bash
+### 2. Тестирование с визуализацией результатов
+```bash
 python src/test_model.py
+```
 Запускает модель на тестовых изображениях, добавляет визуальные bounding boxes с подписями классов и сохраняет аннотированные изображения для анализа качества работы.
 
-3. Подготовка пользовательского датасета
-bash
+### 3. Подготовка пользовательского датасета
+```bash
 # Конвертация существующего датасета в YOLO формат
 python src/preparing_dataset/convert_to_yolo.py --input_dir /путь/к/датасету --output_dir dataset_yolo
 
 # Проверка корректности подготовленного датасета
 python src/preparing_dataset/verify_dataset.py --dataset_path dataset_yolo
+```
 Формат выходных данных
 Структура results.json
-json
+```json
 [
    {
       "name_file": "anorak.jpg",
@@ -87,18 +91,19 @@ json
       "class_name": "Blazer"
    }
 ]
+```
 Подготовка собственного датасета
 Требования к формату данных
 Изображения: JPG, PNG, JPEG (рекомендуется 640x640 для YOLO)
 
 Аннотации в YOLO формате:
 
-text
+```text
 <class_id> <x_center_normalized> <y_center_normalized> <width_normalized> <height_normalized>
-Пример: 0 0.5 0.5 0.3 0.4
-
+#Пример: 0 0.5 0.5 0.3 0.4
+```
 Рекомендуемая структура папки датасета
-text
+```text
 custom_dataset/
 ├── images/                   # Все изображения
 │   ├── train/               # Обучающая выборка (70%)
